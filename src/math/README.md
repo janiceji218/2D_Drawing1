@@ -1,0 +1,3 @@
+# Math libraries are important...
+We'll primarily be using the math library in AniGraph, but you may want to add your own functionality at times. 
+Check out [`./Matrix3x3`](./Matrix3x3) and [`./Vec2`](./Vec2) for examples of how to do this.
